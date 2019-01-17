@@ -1,0 +1,9 @@
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/bin/Debug/netstandard2.0/kintoneSDK.deps.json
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/bin/Debug/netstandard2.0/kintoneSDK.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/bin/Debug/netstandard2.0/kintoneSDK.pdb
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/obj/Debug/netstandard2.0/kintoneSDK.csprojAssemblyReference.cache
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/obj/Debug/netstandard2.0/kintoneSDK.csproj.CoreCompileInputs.cache
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/obj/Debug/netstandard2.0/kintoneSDK.AssemblyInfoInputs.cache
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/obj/Debug/netstandard2.0/kintoneSDK.AssemblyInfo.cs
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/obj/Debug/netstandard2.0/kintoneSDK.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDK/obj/Debug/netstandard2.0/kintoneSDK.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kintoneDotNetSDK", "kintoneSDK\kintoneDotNetSDK.csproj", "{0802FEDF-90F2-4733-9CE7-7A6DD4BA4E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kintoneDotNetSDKTests", "kintoneSDKTests\kintoneDotNetSDKTests.csproj", "{AACAB0A5-844F-414F-8B65-C50AA5050CB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0802FEDF-90F2-4733-9CE7-7A6DD4BA4E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0802FEDF-90F2-4733-9CE7-7A6DD4BA4E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0802FEDF-90F2-4733-9CE7-7A6DD4BA4E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0802FEDF-90F2-4733-9CE7-7A6DD4BA4E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACAB0A5-844F-414F-8B65-C50AA5050CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACAB0A5-844F-414F-8B65-C50AA5050CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACAB0A5-844F-414F-8B65-C50AA5050CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACAB0A5-844F-414F-8B65-C50AA5050CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

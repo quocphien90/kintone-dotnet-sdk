@@ -1,0 +1,17 @@
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/kintoneDotNetSDKTests.deps.json
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/kintoneDotNetSDKTests.runtimeconfig.json
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/kintoneDotNetSDKTests.runtimeconfig.dev.json
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/kintoneDotNetSDKTests.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/kintoneDotNetSDKTests.pdb
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/kintoneDotNetSDK.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/bin/Debug/netcoreapp2.0/kintoneDotNetSDK.pdb
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/obj/Debug/netcoreapp2.0/kintoneDotNetSDKTests.csprojAssemblyReference.cache
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/obj/Debug/netcoreapp2.0/kintoneDotNetSDKTests.csproj.CoreCompileInputs.cache
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/obj/Debug/netcoreapp2.0/kintoneDotNetSDKTests.AssemblyInfoInputs.cache
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/obj/Debug/netcoreapp2.0/kintoneDotNetSDKTests.AssemblyInfo.cs
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/obj/Debug/netcoreapp2.0/kintoneDotNetSDKTests.csproj.CopyComplete
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/obj/Debug/netcoreapp2.0/kintoneDotNetSDKTests.dll
+/Users/p000796/Documents/Research/ASP.NET/kintoneSDK/kintoneSDKTests/obj/Debug/netcoreapp2.0/kintoneDotNetSDKTests.pdb

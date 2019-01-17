@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{AACAB0A5-844F-414F-8B65-C50AA5050CB2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="kintoneSDK/model/comment/CommentMention.cs">
+    <Files>
+      <File FileName="kintoneSDK/model/app/form/field/system/RecordNumberField.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/field/system/UpdatedTimeField.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/field/system/ModifierField.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/field/system/AbstractSystemInfoField.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/field/system/CreatedTimeField.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/field/system/AbstractProcessManagementField.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/layout/FieldLayout.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/layout/GroupLayout.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/layout/FieldSize.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/layout/FormLayout.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/layout/RowLayout.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/layout/ItemLayout.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/app/form/layout/SubTableLayout.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/record/field/FieldValue.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/comment/Comment.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/comment/CommentContent.cs" Line="1" Column="1" />
+      <File FileName="kintoneSDK/model/comment/CommentMention.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="kintoneSDK" expanded="True">
+            <Node name="kintoneSDKTests" expanded="True">
+              <Node name="kintoneSDKTests" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="Test1" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.kintoneSDKTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

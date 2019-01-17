@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="authentication\" />
+    <Folder Include="connection\" />
+    <Folder Include="exception\" />
+    <Folder Include="model\" />
+    <Folder Include="module\" />
+    <Folder Include="model\authentication\" />
+    <Folder Include="model\http\" />
+    <Folder Include="model\app\" />
+    <Folder Include="module\app\" />
+    <Folder Include="module\parser\" />
+    <Folder Include="model\app\app\" />
+    <Folder Include="model\member\" />
+    <Folder Include="model\record\" />
+    <Folder Include="model\file\" />
+    <Folder Include="model\comment\" />
+    <Folder Include="model\app\basic\" />
+    <Folder Include="model\app\form\" />
+    <Folder Include="model\app\general\" />
+    <Folder Include="model\app\view\" />
+    <Folder Include="model\app\form\field\" />
+    <Folder Include="model\app\form\layout\" />
+    <Folder Include="model\app\form\field\input\" />
+    <Folder Include="model\app\form\field\related_record\" />
+    <Folder Include="model\app\form\field\system\" />
+    <Folder Include="model\app\form\field\input\lookup\" />
+    <Folder Include="model\app\form\field\input\member\" />
+    <Folder Include="model\app\form\field\input\selection\" />
+    <Folder Include="model\app\form\field\input\time\" />
+    <Folder Include="model\record\field\" />
+    <Folder Include="module\file\" />
+    <Folder Include="module\record\" />
+    <Folder Include="module\bulkrequest\" />
+    <Folder Include="model\bulkrequest\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+</Project>
