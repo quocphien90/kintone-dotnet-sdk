@@ -7,29 +7,35 @@ namespace kintoneDotNetSDK.model.app.app
 {
     public class AppModel
     {
-        [JsonProperty("app")]
+        [JsonProperty("appId")]
         private string appId;
+
         [JsonProperty("code")]
         private string code;
+
         [JsonProperty("name")]
         private string name;
+
         [JsonProperty("description")]
         private string description;
+
         [JsonProperty("spaceId")]
         private string spaceId;
+
         [JsonProperty("threadId")]
         private string threadId;
+
         [JsonProperty("createdAt")]
         private string createdAt;
+
         [JsonProperty("modifiedAt")]
         private string modifiedAt;
+
         [JsonProperty("modifier")]
         private Member modifier;
+
         [JsonProperty("creator")]
         private Member creator;
-        public AppModel()
-        {
-        }
 
         public int getAppId()
         {
