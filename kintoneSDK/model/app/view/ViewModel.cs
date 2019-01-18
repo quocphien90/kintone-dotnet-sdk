@@ -7,26 +7,37 @@ namespace kintoneDotNetSDK.model.app.view
     {
         [JsonProperty("builtinType")]
         private BuiltinType builtinType;
+
         [JsonProperty("date")]
         private string date;
+
         [JsonProperty("fields")]
         private List<string> fields;
+
         [JsonProperty("filterCond")]
         private string filterCond;
+
         [JsonProperty("html")]
         private string html;
+
         [JsonProperty("id")]
         private string id;
+
         [JsonProperty("index")]
         private string index;
+
         [JsonProperty("name")]
         private string name;
+
         [JsonProperty("pager")]
         private bool pager;
+
         [JsonProperty("sort")]
         private string sort;
+
         [JsonProperty("title")]
         private string title;
+
         [JsonProperty("type")]
         private ViewType type;
 

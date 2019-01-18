@@ -1,10 +1,15 @@
 ﻿using System;
+using Newtonsoft.Json;
+
 namespace kintoneDotNetSDK.model.app.form.layout
 {
-    public class ItemLayout
+    public abstract class ItemLayout
     {
-        public ItemLayout()
+        [JsonProperty("type")]
+        protected LayoutType type;
+        public LayoutType getType()
         {
+            return this.type;
         }
     }
 }

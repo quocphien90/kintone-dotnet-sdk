@@ -3,8 +3,10 @@ namespace kintoneDotNetSDK.model.file
 {
     public class DownloadRequest
     {
-        public DownloadRequest()
+        private string fileKey;
+        public DownloadRequest(string fileKey)
         {
+            this.fileKey = fileKey;
         }
     }
 }

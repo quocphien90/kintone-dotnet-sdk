@@ -1,10 +1,20 @@
 ﻿using System;
+using Newtonsoft.Json;
+
 namespace kintoneDotNetSDK.model.app.form.field.system
 {
-    public class AbstractSystemField
+    public abstract class AbstractSystemField : Field
     {
-        public AbstractSystemField()
+        [JsonProperty("label")]
+        protected string label;
+        public string getLabel()
         {
+            return this.label;
+        }
+
+        public void setLabel(string label)
+        {
+            this.label = label;
         }
     }
 }

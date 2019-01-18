@@ -1,10 +1,12 @@
 ﻿using System;
 namespace kintoneDotNetSDK.model.app.form.field.system
 {
-    public class StatusField
+    public class StatusField : AbstractSystemField
     {
-        public StatusField()
+        public StatusField(string code)
         {
+            this.code = code;
+            this.type = FieldType.STATUS;
         }
     }
 }

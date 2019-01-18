@@ -41,7 +41,7 @@ namespace kintoneDotNetSDK.connection
         private int? proxyPort;
 
 
-        public Connection(string domain, Auth auth, int guestSpaceI = -1)
+        public Connection(string domain, Auth auth, int guestSpaceID = -1)
         {
             this.domain = domain;
             this.auth = auth;
