@@ -1,9 +1,14 @@
 ﻿using System;
+using Newtonsoft.Json;
+
 namespace kintoneDotNetSDK.model.app.basic
 {
     public class PreviewApp
     {
+        [JsonProperty("app")]
         private string app;
+
+        [JsonProperty("revision")]
         private string revision;
 
         public int getApp()

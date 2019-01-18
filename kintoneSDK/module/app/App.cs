@@ -9,6 +9,7 @@ using System.Net;
 using System.Threading.Tasks;
 using kintoneDotNetSDK.model.app.app;
 using System.Collections.Generic;
+using kintoneDotNetSDK.model.app.basic;
 
 namespace kintoneDotNetSDK.module.app
 {
@@ -144,6 +145,25 @@ namespace kintoneDotNetSDK.module.app
                 throw httpRequestException;
             }
 
+        }
+
+        public async Task<PreviewApp> addPreviewApp(string name, int space, int thread)
+        {
+            try
+            {
+                var addPreviewAppRequest = new AddPreviewAppRequest(name, space, thread);
+                var jsonBody = this.parser.ParseObjectToJson(addPreviewAppRequest);
+                var responseString = await this.connection.Request(ConnectionConstants.POST_REQUEST, ConnectionConstants.APP_PREVIEW, jsonBody);
+                return this.parser.ParseJsonToObject<PreviewApp>(responseString);
+            }
+            catch (KintoneAPIException kintoneException)
+            {
+                throw kintoneException;
+            }
+            catch (HttpRequestException httpRequestException)
+            {
+                throw httpRequestException;
+            }
         }
 
         public async Task<GetAppDeployStatusResponse> GetAppDeployStatus(int[] apps)
